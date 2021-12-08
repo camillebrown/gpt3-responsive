@@ -1,5 +1,5 @@
 # Responsive UI/UX Practive
-### [Live Site](https://gpt3-jsm.com/)
+### [Live Site](https://gpt-template-redesign.netlify.app/)
 
 ![Modern UI/UX GPT-3](https://i.ibb.co/TR5LW9z/image.png)
 
